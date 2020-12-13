@@ -1,3 +1,7 @@
+.idea
+.vscode
+.vagrant
+_ide_helper.php
 /node_modules
 /public/hot
 /public/storage
@@ -11,3 +15,4 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+
